@@ -34,5 +34,7 @@ namespace SensitiveData.Models
         {
             return new ApplicationDbContext();
         }
+
+        //public System.Data.Entity.DbSet<SensitiveData.Models.ApplicationUser> ApplicationUsers { get; set; }
     }
 }
