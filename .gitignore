@@ -1,3 +1,5 @@
 /packages
 /SensitiveData/bin
 /SensitiveData/obj
+/SensitiveData/App_Data
+/SensitiveData/*.user
